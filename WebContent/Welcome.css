@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: silver;
+}
+h1{
+	background-color: olive;
+	font:sans-serif;
+	text-align:center;
+}
+p{
+	color:teal;
+	text-align:center;
+}
+form p{
+		text-align:center;
+}
